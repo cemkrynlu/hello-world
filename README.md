@@ -1,2 +1,5 @@
 # hello-world
-Deneme
+
+Hi humans
+
+Love coffee
